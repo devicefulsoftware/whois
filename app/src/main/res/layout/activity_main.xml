@@ -49,7 +49,15 @@
                 app:layout_constraintLeft_toLeftOf="parent"
                 app:layout_constraintRight_toRightOf="parent"
                 app:layout_constraintTop_toTopOf="parent" />
+
+            <com.google.android.gms.ads.NativeExpressAdView
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/adView"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:visibility="visible"
+                ads:adUnitId="ca-app-pub-3940256099942544/2177258514"
+                ads:adSize="320x150"/>
         </LinearLayout>
     </ScrollView>
-
 </android.widget.LinearLayout>
