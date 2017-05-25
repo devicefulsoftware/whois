@@ -29,14 +29,16 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:ems="10"
+                    android:hint="Domain"
                     android:inputType="textUri"
-                    android:text="Domain" />
+                    android:text="devicefulsoftware.com" />
 
                 <Button
                     android:id="@+id/buttonLookup"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
+                    android:onClick="whoisLookup"
                     android:text="Lookup" />
             </LinearLayout>
 
@@ -50,7 +52,10 @@
                     android:id="@+id/txtOutput"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_weight="1"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="10dp"
                     android:text="This is where the output will display"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintLeft_toLeftOf="parent"
@@ -59,23 +64,23 @@
 
             </LinearLayout>
 
-            <LinearLayout
-                android:id="@+id/layoutAds"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:orientation="horizontal">
-
-                <com.google.android.gms.ads.NativeExpressAdView
-                    android:id="@+id/adView"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:visibility="visible"
-                    app:adSize="320x150"
-                    app:adUnitId="ca-app-pub-3940256099942544/2793859312" />
-            </LinearLayout>
-
         </LinearLayout>
     </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/layoutAds"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <com.google.android.gms.ads.NativeExpressAdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:visibility="visible"
+            app:adSize="320x150"
+            app:adUnitId="ca-app-pub-3940256099942544/2793859312" />
+    </LinearLayout>
 </android.widget.LinearLayout>
