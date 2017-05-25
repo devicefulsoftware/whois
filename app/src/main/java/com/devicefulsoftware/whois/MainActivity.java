@@ -11,7 +11,6 @@ import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.ads.NativeExpressAdView;
 import org.apache.commons.net.whois.WhoisClient;
-
 import java.io.BufferedReader;
 import java.io.StringReader;
 
@@ -31,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void whoisLookup(View view){
-        EditText editText = (EditText)findViewById(R.id.editDomain);
+        EditText editText = (EditText)findViewById(R.id.editText);
         Whois whois = new Whois();
         whois.execute(new String[] { editText.getText().toString() });
     }
@@ -41,10 +40,12 @@ public class MainActivity extends AppCompatActivity {
             WhoisClient whoisClient = new WhoisClient();
             String sloppyServer[];
             String server = "Unknown";
+            String originalAnswer = "No answer.";
             String answer = "Unknown error attempting to perform Whois lookup.";
             try{
                 whoisClient.connect(WhoisClient.DEFAULT_HOST);
-                BufferedReader reader = new BufferedReader(new StringReader(whoisClient.query(domains[0])));
+                originalAnswer = whoisClient.query(domains[0]);
+                BufferedReader reader = new BufferedReader(new StringReader(originalAnswer));
                 whoisClient.disconnect();
                 String currentLine;
                 while ((currentLine = reader.readLine()) != null){
@@ -54,12 +55,16 @@ public class MainActivity extends AppCompatActivity {
                         server = sloppyServer[1];
                     }
                 }
-                try{
-                    whoisClient.connect(server);
-                    answer = whoisClient.query(domains[0]);
-                    whoisClient.disconnect();
-                }catch(Exception e){
-                    return e.toString();
+                if (server.equals("Unknown")){
+                    return originalAnswer;
+                }else{
+                    try{
+                        whoisClient.connect(server);
+                        answer = whoisClient.query(domains[0]);
+                        whoisClient.disconnect();
+                    }catch(Exception e){
+                        return e.toString();
+                    }
                 }
                 return answer;
             }catch(Exception e){
