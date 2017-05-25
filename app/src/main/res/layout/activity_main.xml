@@ -20,7 +20,7 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
                 <EditText
@@ -40,24 +40,42 @@
                     android:text="Lookup" />
             </LinearLayout>
 
-            <TextView
-                android:id="@+id/txtOutput"
+            <LinearLayout
+                android:id="@+id/layoutOutput"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/txtOutput"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="This is where the output will display"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/layoutAds"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="This is where the output will display"
-                app:layout_constraintBottom_toBottomOf="parent"
-                app:layout_constraintLeft_toLeftOf="parent"
-                app:layout_constraintRight_toRightOf="parent"
-                app:layout_constraintTop_toTopOf="parent" />
+                android:layout_weight="1"
+                android:orientation="horizontal">
 
-            <com.google.android.gms.ads.NativeExpressAdView
-                xmlns:ads="http://schemas.android.com/apk/res-auto"
-                android:id="@+id/adView"
-                android:layout_width="match_parent"
-                android:layout_height="100dp"
-                android:visibility="visible"
-                ads:adUnitId="ca-app-pub-3940256099942544/2177258514"
-                ads:adSize="320x150"/>
+                <com.google.android.gms.ads.NativeExpressAdView
+                    android:id="@+id/adView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:visibility="visible"
+                    app:adSize="320x150"
+                    app:adUnitId="ca-app-pub-3940256099942544/2793859312" />
+            </LinearLayout>
+
         </LinearLayout>
     </ScrollView>
 </android.widget.LinearLayout>

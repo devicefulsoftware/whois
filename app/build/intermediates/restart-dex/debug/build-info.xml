@@ -6,7 +6,7 @@
     density="560dpi"
     format="10"
     plugin-version="2.3.2"
-    timestamp="1495686676551"
+    timestamp="1495688785922"
     token="-2236450131308220142"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -70,15 +70,18 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1495686575453"
+        timestamp="1495688179264"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
         <artifact
             location="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1495686676551"
+        timestamp="1495688785922"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/cletus/AndroidStudioProjects/whois/app/build/outputs/apk/app-debug.apk"
