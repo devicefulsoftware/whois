@@ -1,4 +1,4 @@
-#Thu May 25 00:06:26 CDT 2017
+#Thu May 25 00:51:45 CDT 2017
 base.0=/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c81ef8fb2ca01d9a92babee7ba79d3ac86e3e93
 renamed.1=classes.dex
 renamed.0=classes2.dex
