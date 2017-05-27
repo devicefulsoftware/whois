@@ -19,17 +19,17 @@ public final class R {
         public static final int scopeUris = 0x7f0100f7;
     }
     public static final class color {
-        public static final int common_google_signin_btn_text_dark = 0x7f0a005b;
+        public static final int common_google_signin_btn_text_dark = 0x7f0a005f;
         public static final int common_google_signin_btn_text_dark_default = 0x7f0a0016;
         public static final int common_google_signin_btn_text_dark_disabled = 0x7f0a0017;
         public static final int common_google_signin_btn_text_dark_focused = 0x7f0a0018;
         public static final int common_google_signin_btn_text_dark_pressed = 0x7f0a0019;
-        public static final int common_google_signin_btn_text_light = 0x7f0a005c;
+        public static final int common_google_signin_btn_text_light = 0x7f0a0060;
         public static final int common_google_signin_btn_text_light_default = 0x7f0a001a;
         public static final int common_google_signin_btn_text_light_disabled = 0x7f0a001b;
         public static final int common_google_signin_btn_text_light_focused = 0x7f0a001c;
         public static final int common_google_signin_btn_text_light_pressed = 0x7f0a001d;
-        public static final int common_google_signin_btn_tint = 0x7f0a005d;
+        public static final int common_google_signin_btn_tint = 0x7f0a0061;
     }
     public static final class drawable {
         public static final int common_full_open_on_phone = 0x7f020053;
@@ -65,8 +65,8 @@ public final class R {
         public static final int normal = 0x7f0b0013;
         public static final int radio = 0x7f0b0050;
         public static final int standard = 0x7f0b002d;
-        public static final int text = 0x7f0b0080;
-        public static final int text2 = 0x7f0b007e;
+        public static final int text = 0x7f0b0082;
+        public static final int text2 = 0x7f0b0080;
         public static final int wide = 0x7f0b002e;
         public static final int wrap_content = 0x7f0b0021;
     }
@@ -103,7 +103,7 @@ public final class R {
         public static final int store_picture_title = 0x7f06002f;
     }
     public static final class style {
-        public static final int Theme_IAPTheme = 0x7f080111;
+        public static final int Theme_IAPTheme = 0x7f080115;
     }
     public static final class styleable {
         public static final int[] AdsAttrs = { 0x7f01004d, 0x7f01004e, 0x7f01004f };

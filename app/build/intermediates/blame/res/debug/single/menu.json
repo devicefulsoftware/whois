@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/menu/mainmenu_dark.xml",
+        "source": "/home/cletus/AndroidStudioProjects/whois/app/src/main/res/menu/mainmenu_dark.xml"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/menu/mainmenu_light.xml",
+        "source": "/home/cletus/AndroidStudioProjects/whois/app/src/main/res/menu/mainmenu_light.xml"
+    }
+]

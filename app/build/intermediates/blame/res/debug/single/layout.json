@@ -24,20 +24,8 @@
         "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
@@ -120,16 +108,16 @@
         "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/notification_template_custom_big.xml"
-    },
-    {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/about_page.xml",
+        "source": "/home/cletus/AndroidStudioProjects/whois/app/src/main/res/layout/about_page.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",

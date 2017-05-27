@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Whois</string>
+    <string name="home_url"><u>http://devicefulsoftware.com</u></string>
+    <string name="option_about">About</string>
 </resources>
