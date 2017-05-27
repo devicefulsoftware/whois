@@ -2,6 +2,132 @@
 <items version="2" >
 
     <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/67629ebd2ca1cf53d3e477976776a83c39a09efb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_503f0bae152f73a7cf02e968b0920252ac8619b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/b9d749ad7ea974b5fbf62454d904001411ffc51b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_076e867042a0df1206c672dcc05d5a7ea6489943.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/opt/android-sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_acc73e4ee5a95a149a64c98ae3a02c1a889b532c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/21e01c905517be29f9bb076fb857b2dc7c259e81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_3642f0fc3972adcdac8832f217be32cc224d985f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/b6b2f1c80eb537256cb3f7169c39c84cddcaae95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_b23142d3446a63b11cd561b9469b47b1e4e43456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/3a55561b37bb74b261c3d2127dd316475e2f6030/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_6da65831bf83852491d00f706a4443abdb46ff6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/5c6b9f712bdfae69304d997f0d69f70204046153/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_7e8a8e6dda7d02dc3ca31e063a61336747527252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/aa49c27c2f67c52295595837f8e858a4fb76124e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_5a6ff84544e8865502130bb4fd7ac51f68d4a857.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/0bed2b1c73d4720a19ebb16913bf8fd6aea25b06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_1206dd91431902a6489472c4f6fc6887577333ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_a8dde97975423fe7864a755ba6a0e01b6953f8bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.gradle/caches/modules-2/files-2.1/commons-net/commons-net/3.6/b71de00508dcb078d2b24b5fa7e538636de9b3da/commons-net-3.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b71de00508dcb078d2b24b5fa7e538636de9b3da">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/commons-net-3.6_381ed3316034b931d1db32fe317b5204ee1b592f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_af62d360cb89f5ab7a89bbb7e7c5ceffb6488235.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_93f751b622a58c67ee35eb6f0b593dfe43a1385d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/394d77fc16f6cee63ef63cbd1ce59aee4f8cd34c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_def05a538faae0ec4d25bd2e44ad4366146347c6.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/home/cletus/.gradle/caches/modules-2/files-2.1/commons-net/commons-net/3.6/b71de00508dcb078d2b24b5fa7e538636de9b3da/commons-net-3.6.jar"
         jumboMode="true"
@@ -20,6 +146,42 @@
         <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2c81ef8fb2ca01d9a92babee7ba79d3ac86e3e93/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_1fadc471903c80a4d171ab39179d210e4d54d262.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/a2e1e3f8ee747a585aa5fb2d22f763e0aa6d3785/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_22c4ae35a5f43ab778dcbc8cbc079ee4d6c7b06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/28961cc1a462d4c947c7dbefe2656203c20edff7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_d77bc73635e30a1e4ddace358db064f07230c8fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/3aebb25e657299c1c4890d4ef5c3b96eed194354/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_e9e6074f7d1845fdc911af6da902c661941f28aa.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
@@ -27,6 +189,24 @@
         revision="25.0.3"
         sha1="5dec4ec3e242c2a27e41adce87d994590e5f0b29">
         <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2fa6c7f6a0d88bd6ab6cd339c4b5801d2aa9ff56/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/19ba093be2928aea445a3d0131e560d94d3607ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_dbb133412bac20ba0eee812035ad48fa43ff7fcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/cletus/.android/build-cache/ca404881735ce0bde081ef80c0cbb6f42030f573/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/pre-dexed/release/classes_24ac81b52a5fbeccf6d416cdc564244ef107cd0b.jar" />
     </item>
 
 </items>

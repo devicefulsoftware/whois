@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/layout-v21/notification_action.xml"
+    }
+]

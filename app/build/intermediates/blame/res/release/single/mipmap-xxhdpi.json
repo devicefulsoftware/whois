@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/cletus/AndroidStudioProjects/whois/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/cletus/AndroidStudioProjects/whois/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
