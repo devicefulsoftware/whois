@@ -15,27 +15,27 @@ ADDED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest
 		INJECTED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml:4:5-66
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:19:5-66
 	android:name
 		ADDED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml:6:5-30:19
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /home/cletus/.android/build-cache/d5163f800fd240465b80e6d41063cfe8a67c71a5/output/AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/cc30e693a7993fef2cb8b8bb8ab164893d95cedd/output/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/cletus/.android/build-cache/2c3267d51690756e1e94964f010231205401073e/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.2.6] /home/cletus/.android/build-cache/dc6fb6722c6a31db71d20086cc207d0517839d4a/output/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/1c11d193e2469265f0daa863bbd2d49e868fbefe/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /home/cletus/.android/build-cache/fb8ea63174d95e507c70e597afe5ae2ed0cf2b59/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /home/cletus/.android/build-cache/d3aa66c251257e952d27c1e6e0854302398aa23e/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/cletus/.android/build-cache/32d9d2d1cfb308a891e553c4a88b096510a22ecd/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/cletus/.android/build-cache/59b382f285395c9a32c00ca92390f8b6a94e1662/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/cletus/.android/build-cache/a3bf4ed830174c96fa57d723754b5c312785d2ab/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cletus/.android/build-cache/54baeb86d674df2d97a7b04849611939393ca93d/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cletus/.android/build-cache/45793690ed4adb659f6eeae37e9e6d18114db1e6/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /home/cletus/.android/build-cache/5f73e4e77198f83f80e22f85c822cdd8801cd236/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cletus/.android/build-cache/eaea7deb9eaac2f885d460bd06e2f216cbd537af/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /home/cletus/.android/build-cache/aa49c27c2f67c52295595837f8e858a4fb76124e/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/cletus/.android/build-cache/b6b2f1c80eb537256cb3f7169c39c84cddcaae95/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] /home/cletus/.android/build-cache/67629ebd2ca1cf53d3e477976776a83c39a09efb/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/19ba093be2928aea445a3d0131e560d94d3607ad/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/cletus/.android/build-cache/b9d749ad7ea974b5fbf62454d904001411ffc51b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cletus/.android/build-cache/0bed2b1c73d4720a19ebb16913bf8fd6aea25b06/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cletus/.android/build-cache/28961cc1a462d4c947c7dbefe2656203c20edff7/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cletus/.android/build-cache/3aebb25e657299c1c4890d4ef5c3b96eed194354/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cletus/.android/build-cache/ca404881735ce0bde081ef80c0cbb6f42030f573/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cletus/.android/build-cache/a2e1e3f8ee747a585aa5fb2d22f763e0aa6d3785/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cletus/.android/build-cache/21e01c905517be29f9bb076fb857b2dc7c259e81/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/cletus/.android/build-cache/5c6b9f712bdfae69304d997f0d69f70204046153/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cletus/.android/build-cache/394d77fc16f6cee63ef63cbd1ce59aee4f8cd34c/output/AndroidManifest.xml:9:5-20
 	android:screenOrientation
 		ADDED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml:12:9-45
 	android:label
@@ -80,25 +80,25 @@ ADDED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest
 		ADDED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml:27:17-63
 uses-sdk
 INJECTED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.google.android.gms:play-services-ads:10.2.6] /home/cletus/.android/build-cache/d5a29f27e6871f55ccd8f7d642f8b1d7a36b1ee0/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:22:5-43
-MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /home/cletus/.android/build-cache/d5163f800fd240465b80e6d41063cfe8a67c71a5/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/cc30e693a7993fef2cb8b8bb8ab164893d95cedd/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/cletus/.android/build-cache/2c3267d51690756e1e94964f010231205401073e/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-gass:10.2.6] /home/cletus/.android/build-cache/dc6fb6722c6a31db71d20086cc207d0517839d4a/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/1c11d193e2469265f0daa863bbd2d49e868fbefe/output/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /home/cletus/.android/build-cache/fb8ea63174d95e507c70e597afe5ae2ed0cf2b59/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /home/cletus/.android/build-cache/d3aa66c251257e952d27c1e6e0854302398aa23e/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/cletus/.android/build-cache/32d9d2d1cfb308a891e553c4a88b096510a22ecd/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/cletus/.android/build-cache/59b382f285395c9a32c00ca92390f8b6a94e1662/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/cletus/.android/build-cache/a3bf4ed830174c96fa57d723754b5c312785d2ab/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cletus/.android/build-cache/54baeb86d674df2d97a7b04849611939393ca93d/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cletus/.android/build-cache/45793690ed4adb659f6eeae37e9e6d18114db1e6/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /home/cletus/.android/build-cache/5f73e4e77198f83f80e22f85c822cdd8801cd236/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cletus/.android/build-cache/eaea7deb9eaac2f885d460bd06e2f216cbd537af/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:10.2.6] /home/cletus/.android/build-cache/3a55561b37bb74b261c3d2127dd316475e2f6030/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.6] /home/cletus/.android/build-cache/aa49c27c2f67c52295595837f8e858a4fb76124e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.6] /home/cletus/.android/build-cache/b6b2f1c80eb537256cb3f7169c39c84cddcaae95/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.6] /home/cletus/.android/build-cache/67629ebd2ca1cf53d3e477976776a83c39a09efb/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/19ba093be2928aea445a3d0131e560d94d3607ad/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/cletus/.android/build-cache/b9d749ad7ea974b5fbf62454d904001411ffc51b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cletus/.android/build-cache/0bed2b1c73d4720a19ebb16913bf8fd6aea25b06/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cletus/.android/build-cache/28961cc1a462d4c947c7dbefe2656203c20edff7/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cletus/.android/build-cache/3aebb25e657299c1c4890d4ef5c3b96eed194354/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cletus/.android/build-cache/ca404881735ce0bde081ef80c0cbb6f42030f573/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cletus/.android/build-cache/a2e1e3f8ee747a585aa5fb2d22f763e0aa6d3785/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cletus/.android/build-cache/21e01c905517be29f9bb076fb857b2dc7c259e81/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/cletus/.android/build-cache/5c6b9f712bdfae69304d997f0d69f70204046153/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cletus/.android/build-cache/394d77fc16f6cee63ef63cbd1ce59aee4f8cd34c/output/AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml
 		INJECTED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml
@@ -106,48 +106,48 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/cletu
 		INJECTED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml
 		INJECTED from /home/cletus/AndroidStudioProjects/whois/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:20:5-78
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:20:5-78
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:20:22-76
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:20:22-76
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/0c33adadb12ec51c73d74c19e727193cd6f4979b/output/AndroidManifest.xml:26:19-91
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.6] /home/cletus/.android/build-cache/9bbe4b2d6ced43b01d59907288ae8e1d676bbb6b/output/AndroidManifest.xml:26:19-91
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/cc30e693a7993fef2cb8b8bb8ab164893d95cedd/output/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/cc30e693a7993fef2cb8b8bb8ab164893d95cedd/output/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/cc30e693a7993fef2cb8b8bb8ab164893d95cedd/output/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/cc30e693a7993fef2cb8b8bb8ab164893d95cedd/output/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:10.2.6] /home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/1c11d193e2469265f0daa863bbd2d49e868fbefe/output/AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/19ba093be2928aea445a3d0131e560d94d3607ad/output/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/1c11d193e2469265f0daa863bbd2d49e868fbefe/output/AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/19ba093be2928aea445a3d0131e560d94d3607ad/output/AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/1c11d193e2469265f0daa863bbd2d49e868fbefe/output/AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:10.2.6] /home/cletus/.android/build-cache/19ba093be2928aea445a3d0131e560d94d3607ad/output/AndroidManifest.xml:20:20-65
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /home/cletus/.android/build-cache/fb8ea63174d95e507c70e597afe5ae2ed0cf2b59/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /home/cletus/.android/build-cache/d3aa66c251257e952d27c1e6e0854302398aa23e/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /home/cletus/.android/build-cache/32d9d2d1cfb308a891e553c4a88b096510a22ecd/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /home/cletus/.android/build-cache/59b382f285395c9a32c00ca92390f8b6a94e1662/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /home/cletus/.android/build-cache/a3bf4ed830174c96fa57d723754b5c312785d2ab/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cletus/.android/build-cache/54baeb86d674df2d97a7b04849611939393ca93d/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cletus/.android/build-cache/45793690ed4adb659f6eeae37e9e6d18114db1e6/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /home/cletus/.android/build-cache/5f73e4e77198f83f80e22f85c822cdd8801cd236/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/cletus/.android/build-cache/b9d749ad7ea974b5fbf62454d904001411ffc51b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cletus/.android/build-cache/0bed2b1c73d4720a19ebb16913bf8fd6aea25b06/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cletus/.android/build-cache/28961cc1a462d4c947c7dbefe2656203c20edff7/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cletus/.android/build-cache/3aebb25e657299c1c4890d4ef5c3b96eed194354/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cletus/.android/build-cache/ca404881735ce0bde081ef80c0cbb6f42030f573/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cletus/.android/build-cache/a2e1e3f8ee747a585aa5fb2d22f763e0aa6d3785/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cletus/.android/build-cache/21e01c905517be29f9bb076fb857b2dc7c259e81/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/cletus/.android/build-cache/5c6b9f712bdfae69304d997f0d69f70204046153/output/AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/AndroidManifest.xml:26:9-47

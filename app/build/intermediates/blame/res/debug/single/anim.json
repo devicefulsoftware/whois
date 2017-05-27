@@ -1,42 +1,42 @@
 [
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_slide_in_top.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_slide_out_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_slide_out_top.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_popup_exit.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_fade_out.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_fade_in.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_slide_in_bottom.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/anim/abc_popup_enter.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/anim/abc_popup_enter.xml"
     }
 ]

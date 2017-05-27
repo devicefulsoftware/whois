@@ -1,18 +1,18 @@
 [
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable-v21/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/drawable-v21/notification_action_background.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/cletus/.android/build-cache/2cb82c49fe8762465d83cab90c6cc196a21df7f6/output/res/drawable-v21/abc_edit_text_material.xml"
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]
