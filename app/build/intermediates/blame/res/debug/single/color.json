@@ -20,12 +20,12 @@
         "source": "/home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/res/color/common_google_signin_btn_tint.xml"
     },
     {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/color/abc_tint_edittext.xml"
-    },
-    {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/color/abc_tint_edittext.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",

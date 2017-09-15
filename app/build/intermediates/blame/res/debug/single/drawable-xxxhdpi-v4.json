@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
-        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
         "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",

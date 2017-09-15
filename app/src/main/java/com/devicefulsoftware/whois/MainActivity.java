@@ -7,10 +7,13 @@ import android.os.AsyncTask;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.EditorInfo;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.TextView;
 import com.google.android.gms.ads.AdRequest;
@@ -39,6 +42,20 @@ public class MainActivity extends AppCompatActivity {
         AdRequest request = new AdRequest.Builder().build();
         adView.loadAd(request);
         txtOutput = (TextView)findViewById(R.id.txtOutput);
+        //Code to do stuff on Enter press
+        final EditText edittext = (EditText) findViewById(R.id.editText);
+        edittext.setOnKeyListener(new View.OnKeyListener() {
+            public boolean onKey(View v, int keyCode, KeyEvent event) {
+                // If the event is a key-down event on the "enter" button
+                if ((event.getAction() == KeyEvent.ACTION_DOWN) &&
+                        (keyCode == KeyEvent.KEYCODE_ENTER)) {
+                    // Perform action on key press
+                    whoisLookup(findViewById(R.id.mainLayout));
+                    return true;
+                }
+                return false;
+            }
+        });
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu){
@@ -103,6 +120,13 @@ public class MainActivity extends AppCompatActivity {
     public void whoisLookup(View view){
         EditText editText = (EditText)findViewById(R.id.editText);
         Whois whois = new Whois();
+        //Collapse the keyboard
+        try {
+            InputMethodManager imm = (InputMethodManager)getSystemService(INPUT_METHOD_SERVICE);
+            imm.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
+        } catch (Exception e) {
+            // TODO: handle exception
+        }
         whois.execute(editText.getText().toString());
     }
     private class Whois extends AsyncTask<String, Void, String> {
@@ -120,11 +144,11 @@ public class MainActivity extends AppCompatActivity {
                 whoisClient.disconnect();
                 String currentLine;
                 while ((currentLine = reader.readLine()) != null){
-                    if (currentLine.matches("(.*)Whois Server:(.*)")){
+                    /*if (currentLine.matches("(.*)WHOIS Server:(.*)")){
                         String[] serverMatch = currentLine.split(":");
                         sloppyServer = serverMatch[1].split(" ");
                         server = sloppyServer[1];
-                    }
+                    }*/
                 }
                 if (server.equals("Unknown")){
                     return originalAnswer;

@@ -1,4 +1,4 @@
-#Fri May 26 22:17:10 CDT 2017
+#Fri Sep 15 13:20:37 CDT 2017
 file.2=/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93f751b622a58c67ee35eb6f0b593dfe43a1385d/classes.dex
 base.2=/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93f751b622a58c67ee35eb6f0b593dfe43a1385d
 file.1=/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_acc73e4ee5a95a149a64c98ae3a02c1a889b532c/classes.dex

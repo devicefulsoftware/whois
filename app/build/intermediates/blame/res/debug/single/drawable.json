@@ -32,20 +32,20 @@
         "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable/abc_vector_test.xml"
     },
     {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
-    },
-    {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_normal.xml",
         "source": "/home/cletus/.android/build-cache/dcbc86c5c5a9e34689816fc63f3d32d6df1646e5/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/cletus/.android/build-cache/8857896a921b4de57c63f3d403a55e4a199a1803/output/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/cletus/AndroidStudioProjects/whois/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
